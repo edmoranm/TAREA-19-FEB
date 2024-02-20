@@ -1,0 +1,63 @@
+#div1 {
+        width: 45%;
+        margin-left: 27%;
+        border: solid;
+        border-color: black;
+        background-image: url(../image/fondo.jpg);
+        background-size: cover;
+        background-repeat: repeat;
+
+        border-width: 5mm;
+        text-align: center;
+        text-shadow: 5px 5px 5px blue;
+
+}
+
+#fondo {
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(rgb(33, 222, 8), rgb(6, 33, 90), rgb(0, 0, 0));
+        background-size: 400%, 400%;
+        margin: 0%;
+        padding: 0%;
+        position: relative;
+
+}
+
+.h1 {
+        color: black;
+        text-align: center;
+        font-family: 'Franklin Gothic Medium';
+        background-color: gray;
+        border: solid;
+        border-color: black;
+        border-radius: 5%;
+        text-align: center;
+        text-decoration: overline;
+        text-shadow: 5px 5px 5px blue;
+        text-decoration-color: blue;
+}
+
+.h2 {
+        border-color: grey;
+        border: solid;
+        background-color: gray;
+        font-size: 10mm;
+}
+
+.texto {
+        border: solid;
+        background-color: grey;
+        font-size: 7mm;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+#table,
+th,
+td {
+        border: solid;
+        border-color: blue;
+        background-color: grey;
+}
