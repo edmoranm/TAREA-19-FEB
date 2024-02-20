@@ -52,7 +52,12 @@
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-
+.texto2{
+        border: solid;
+        background-color: grey;
+        font-size: 5mm;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
 #table,
 th,
